@@ -19,11 +19,12 @@
   45- Accept the activation request (send an email upon activation)
   46- Reject the activation request
   50- Display specific details for a specific student along with his account status.
-
-  UseCase Link:https://lucid.app/lucidchart/4be09160-31a1-4198-8ba2-f8cd7d624ed1/edit?invitationId=inv_f14932a5-aa49-453a-87e3-74a7dd5b8289&page=0_0#
-  
   54- Review and change the status of the complaint.
   58- Activate the school account.
+  
+  UseCase Link:https://lucid.app/lucidchart/4be09160-31a1-4198-8ba2-f8cd7d624ed1/edit?invitationId=inv_f14932a5-aa49-453a-87e3-74a7dd5b8289&page=0_0#
+  
+
 
   
   
